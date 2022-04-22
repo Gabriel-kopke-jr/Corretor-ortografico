@@ -1,2 +1,3 @@
-# Projetos e analise de dados feitos para treinamento e em trabalho
-Projetos e analises feitas no trabalho
+# Projeto de análise de dados e machine Learning para utilização em corretores ortográficos
+
+Neste projeto é feito um modelo para correção de palavras em python.
